@@ -1,0 +1,586 @@
+[
+  {
+    "value": "affenpinscher",
+    "name": "アフェンピンシャー"
+  },
+  {
+    "value": "african",
+    "name": "アフリカン"
+  },
+  {
+    "value": "airedale",
+    "name": "エアデール"
+  },
+  {
+    "value": "akita",
+    "name": "アキタ"
+  },
+  {
+    "value": "appenzeller",
+    "name": "アッペンツェラー"
+  },
+  {
+    "value": "australian/shepherd",
+    "name": "オーストラリアン・シェパード"
+  },
+  {
+    "value": "basenji",
+    "name": "バセンジー"
+  },
+  {
+    "value": "beagle",
+    "name": "ビーグル"
+  },
+  {
+    "value": "bluetick",
+    "name": "ブルーティック"
+  },
+  {
+    "value": "borzoi",
+    "name": "ボルゾイ"
+  },
+  {
+    "value": "bouvier",
+    "name": "ブービア"
+  },
+  {
+    "value": "boxer",
+    "name": "ボクサー"
+  },
+  {
+    "value": "brabancon",
+    "name": "ブラバンコン"
+  },
+  {
+    "value": "briard",
+    "name": "ブリアード"
+  },
+  {
+    "value": "buhund/norwegian",
+    "name": "ブフンド・ノルウェージャン"
+  },
+  {
+    "value": "bulldog/boston",
+    "name": "ブルドッグ・ボストン"
+  },
+  {
+    "value": "bulldog/english",
+    "name": "ブルドッグ・イングリッシュ"
+  },
+  {
+    "value": "bulldog/french",
+    "name": "ブルドッグ・フレンチ"
+  },
+  {
+    "value": "bullterrier/staffordshire",
+    "name": "ブルテリア・スタッフォードシャー"
+  },
+  {
+    "value": "cattledog/australian",
+    "name": "カトルドッグ・オーストラリアン"
+  },
+  {
+    "value": "chihuahua",
+    "name": "チワワ"
+  },
+  {
+    "value": "chow",
+    "name": "チャウ"
+  },
+  {
+    "value": "clumber",
+    "name": "クランバー"
+  },
+  {
+    "value": "cockapoo",
+    "name": "オカメインコ"
+  },
+  {
+    "value": "collie/border",
+    "name": "コリー・ボーダー"
+  },
+  {
+    "value": "coonhound",
+    "name": "クーンハウンド"
+  },
+  {
+    "value": "corgi/cardigan",
+    "name": "コーギー・カーディガン"
+  },
+  {
+    "value": "cotondetulear",
+    "name": "コトンドテューラー"
+  },
+  {
+    "value": "dachshund",
+    "name": "ダックスフント"
+  },
+  {
+    "value": "dalmatian",
+    "name": "ダルメシアン"
+  },
+  {
+    "value": "dane/great",
+    "name": "デーン・グレート"
+  },
+  {
+    "value": "deerhound/scottish",
+    "name": "ディアハウンド・スコティッシュ"
+  },
+  {
+    "value": "dhole",
+    "name": "ドール"
+  },
+  {
+    "value": "dingo",
+    "name": "ディンゴ"
+  },
+  {
+    "value": "doberman",
+    "name": "ドーベルマン"
+  },
+  {
+    "value": "elkhound/norwegian",
+    "name": "エルクハウンド・ノルウェージャン"
+  },
+  {
+    "value": "entlebucher",
+    "name": "アントレブッチャー"
+  },
+  {
+    "value": "eskimo",
+    "name": "エスキモー"
+  },
+  {
+    "value": "finnish/lapphund",
+    "name": "フィンランド・ラップフンド"
+  },
+  {
+    "value": "frise/bichon",
+    "name": "フリーズ・ビション"
+  },
+  {
+    "value": "germanshepherd",
+    "name": "ジャーマンシェパード"
+  },
+  {
+    "value": "greyhound/italian",
+    "name": "グレーハウンド・イタリアン"
+  },
+  {
+    "value": "groenendael",
+    "name": "グロネンデール"
+  },
+  {
+    "value": "havanese",
+    "name": "ハバニーズ"
+  },
+  {
+    "value": "hound/afghan",
+    "name": "ハウンド・アフガン"
+  },
+  {
+    "value": "hound/basset",
+    "name": "ハウンド・バセット"
+  },
+  {
+    "value": "hound/blood",
+    "name": "ハウンド・ブラッド"
+  },
+  {
+    "value": "hound/english",
+    "name": "ハウンド・イングリッシュ"
+  },
+  {
+    "value": "hound/ibizan",
+    "name": "ハウンド・イビザン"
+  },
+  {
+    "value": "hound/plott",
+    "name": "ハウンド・プロット"
+  },
+  {
+    "value": "hound/walker",
+    "name": "ハウンド・ウォーカー"
+  },
+  {
+    "value": "husky",
+    "name": "ハスキー"
+  },
+  {
+    "value": "keeshond",
+    "name": "キーシェンド"
+  },
+  {
+    "value": "kelpie",
+    "name": "ケルピー"
+  },
+  {
+    "value": "komondor",
+    "name": "コモンドール"
+  },
+  {
+    "value": "kuvasz",
+    "name": "クーバース"
+  },
+  {
+    "value": "labradoodle",
+    "name": "ラブラドゥードル"
+  },
+  {
+    "value": "labrador",
+    "name": "ラブラドール"
+  },
+  {
+    "value": "leonberg",
+    "name": "レオンバーグ"
+  },
+  {
+    "value": "lhasa",
+    "name": "ラサ"
+  },
+  {
+    "value": "malamute",
+    "name": "マラミュート"
+  },
+  {
+    "value": "malinois",
+    "name": "マリノア"
+  },
+  {
+    "value": "maltese",
+    "name": "マルチーズ"
+  },
+  {
+    "value": "mastiff/bull",
+    "name": "マスチフ・ブル"
+  },
+  {
+    "value": "mastiff/english",
+    "name": "マスティフ・イングリッシュ"
+  },
+  {
+    "value": "mastiff/tibetan",
+    "name": "マスチフ・チベット"
+  },
+  {
+    "value": "mexicanhairless",
+    "name": "メキシカンヘアレス"
+  },
+  {
+    "value": "mix",
+    "name": "ミックス"
+  },
+  {
+    "value": "mountain/bernese",
+    "name": "マウンテン・バーニーズ"
+  },
+  {
+    "value": "mountain/swiss",
+    "name": "マウンテン・スイス"
+  },
+  {
+    "value": "newfoundland",
+    "name": "ニューファウンドランド"
+  },
+  {
+    "value": "otterhound",
+    "name": "オッターハウンド"
+  },
+  {
+    "value": "ovcharka/caucasian",
+    "name": "オヴカルカ・コーカシアン"
+  },
+  {
+    "value": "papillon",
+    "name": "パピヨン"
+  },
+  {
+    "value": "pekinese",
+    "name": "ペキニーズ"
+  },
+  {
+    "value": "pembroke",
+    "name": "ペンブローク"
+  },
+  {
+    "value": "pinscher/miniature",
+    "name": "ピンシャー・ミニチュア"
+  },
+  {
+    "value": "pitbull",
+    "name": "ピットブル"
+  },
+  {
+    "value": "pointer/german",
+    "name": "ポインター・ジャーマン"
+  },
+  {
+    "value": "pointer/germanlonghair",
+    "name": "ポインター・ジャーマン・ロングヘアー"
+  },
+  {
+    "value": "pomeranian",
+    "name": "ポメラニアン"
+  },
+  {
+    "value": "poodle/medium",
+    "name": "プードル・ミディアム"
+  },
+  {
+    "value": "poodle/miniature",
+    "name": "プードル・ミニチュア"
+  },
+  {
+    "value": "poodle/standard",
+    "name": "プードル・スタンダード"
+  },
+  {
+    "value": "poodle/toy",
+    "name": "プードル・トイ"
+  },
+  {
+    "value": "pug",
+    "name": "パグ"
+  },
+  {
+    "value": "puggle",
+    "name": "パグル"
+  },
+  {
+    "value": "pyrenees",
+    "name": "ピレニーズ"
+  },
+  {
+    "value": "redbone",
+    "name": "レッドボーン"
+  },
+  {
+    "value": "retriever/chesapeake",
+    "name": "レトリーバー・チェサピーク"
+  },
+  {
+    "value": "retriever/curly",
+    "name": "レトリーバー・カーリー"
+  },
+  {
+    "value": "retriever/flatcoated",
+    "name": "レトリーバー・フラットコーテッド"
+  },
+  {
+    "value": "retriever/golden",
+    "name": "レトリーバー・ゴールデン"
+  },
+  {
+    "value": "ridgeback/rhodesian",
+    "name": "リッジバック・ローデシアン"
+  },
+  {
+    "value": "rottweiler",
+    "name": "ロットワイラー"
+  },
+  {
+    "value": "saluki",
+    "name": "サルーキ"
+  },
+  {
+    "value": "samoyed",
+    "name": "サモエド"
+  },
+  {
+    "value": "schipperke",
+    "name": "シッパーキ"
+  },
+  {
+    "value": "schnauzer/giant",
+    "name": "シュナウザー・ジャイアント"
+  },
+  {
+    "value": "schnauzer/miniature",
+    "name": "シュナウザー・ミニチュア"
+  },
+  {
+    "value": "setter/english",
+    "name": "セッター・イングリッシュ"
+  },
+  {
+    "value": "setter/gordon",
+    "name": "セッター・ゴードン"
+  },
+  {
+    "value": "setter/irish",
+    "name": "セッター・アイリッシュ"
+  },
+  {
+    "value": "sharpei",
+    "name": "シャーペイ"
+  },
+  {
+    "value": "sheepdog/english",
+    "name": "シープドッグ・イングリッシュ"
+  },
+  {
+    "value": "sheepdog/shetland",
+    "name": "シープドッグ・シェットランド"
+  },
+  {
+    "value": "shiba",
+    "name": "シバ"
+  },
+  {
+    "value": "shihtzu",
+    "name": "シーズー"
+  },
+  {
+    "value": "spaniel/blenheim",
+    "name": "スパニエル・ブレンハイム"
+  },
+  {
+    "value": "spaniel/brittany",
+    "name": "スパニエル・ブリタニー"
+  },
+  {
+    "value": "spaniel/cocker",
+    "name": "スパニエル・コッカー"
+  },
+  {
+    "value": "spaniel/irish",
+    "name": "スパニエルアイリッシュ"
+  },
+  {
+    "value": "spaniel/japanese",
+    "name": "スパニエル・ジャパニーズ"
+  },
+  {
+    "value": "spaniel/sussex",
+    "name": "スパニエル・サセックス"
+  },
+  {
+    "value": "spaniel/welsh",
+    "name": "スパニエル・ウェルシュ"
+  },
+  {
+    "value": "springer/english",
+    "name": "スプリンガー・イングリッシュ"
+  },
+  {
+    "value": "stbernard",
+    "name": "スターバックス"
+  },
+  {
+    "value": "terrier/american",
+    "name": "テリア・アメリカン"
+  },
+  {
+    "value": "terrier/australian",
+    "name": "テリア・オーストラリアン"
+  },
+  {
+    "value": "terrier/bedlington",
+    "name": "テリア・ベッドリントン"
+  },
+  {
+    "value": "terrier/border",
+    "name": "テリア・ボーダー"
+  },
+  {
+    "value": "terrier/cairn",
+    "name": "テリア・ケルン"
+  },
+  {
+    "value": "terrier/dandie",
+    "name": "テリア・ダンディ"
+  },
+  {
+    "value": "terrier/fox",
+    "name": "テリア・フォックス"
+  },
+  {
+    "value": "terrier/irish",
+    "name": "テリア・アイリッシュ"
+  },
+  {
+    "value": "terrier/kerryblue",
+    "name": "テリア・ケリーブルー"
+  },
+  {
+    "value": "terrier/lakeland",
+    "name": "テリア・レイクランド"
+  },
+  {
+    "value": "terrier/norfolk",
+    "name": "テリア・ノーフォーク"
+  },
+  {
+    "value": "terrier/norwich",
+    "name": "テリア・ノリッチ"
+  },
+  {
+    "value": "terrier/patterdale",
+    "name": "テリア・パターデール"
+  },
+  {
+    "value": "terrier/russell",
+    "name": "テリア・ラッセル"
+  },
+  {
+    "value": "terrier/scottish",
+    "name": "テリア・スコティッシュ"
+  },
+  {
+    "value": "terrier/sealyham",
+    "name": "テリア・シーリハム"
+  },
+  {
+    "value": "terrier/silky",
+    "name": "テリア・シルキー"
+  },
+  {
+    "value": "terrier/tibetan",
+    "name": "テリア・チベット"
+  },
+  {
+    "value": "terrier/toy",
+    "name": "テリア・トイ"
+  },
+  {
+    "value": "terrier/welsh",
+    "name": "テリア・ウェルシュ"
+  },
+  {
+    "value": "terrier/westhighland",
+    "name": "テリア・ウェストハイランド"
+  },
+  {
+    "value": "terrier/wheaten",
+    "name": "テリア・ウィートン"
+  },
+  {
+    "value": "terrier/yorkshire",
+    "name": "テリア・ヨークシャー"
+  },
+  {
+    "value": "tervuren",
+    "name": "タービュレン"
+  },
+  {
+    "value": "vizsla",
+    "name": "ビズーラ"
+  },
+  {
+    "value": "waterdog/spanish",
+    "name": "ウォータードッグ・スパニッシュ"
+  },
+  {
+    "value": "weimaraner",
+    "name": "ワイマラナー"
+  },
+  {
+    "value": "whippet",
+    "name": "ウィペット"
+  },
+  {
+    "value": "wolfhound/irish",
+    "name": "ウルフハウンド・アイリッシュ"
+  }
+]

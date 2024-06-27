@@ -1,38 +1,24 @@
-import { useState } from "react";
-
-// 演算子の型定義
 type Operation = "+" | "-" | "*" | "/";
 
 export const useCalculator = () => {
-  // 計算結果を保持するstate
-  const [result, setResult] = useState<number>(0);
-
-  // 計算を実行する関数
-  const calculate = (a: number, b: number, operation: Operation) => {
+  const calculate = (a: number, b: number, operation: Operation): number => {
     switch (operation) {
       case "+":
-        setResult(a + b);
-        break;
+        return a + b;
       case "-":
-        setResult(a - b);
-        break;
+        return a - b;
       case "*":
-        setResult(a * b);
-        break;
+        return a * b;
       case "/":
-        // 0での除算をチェック
         if (b !== 0) {
-          setResult(a / b);
+          return a / b;
         } else {
           throw new Error("Division by zero");
         }
-        break;
       default:
-        // 無効な演算子の場合はエラーをスロー
         throw new Error("Invalid operation");
     }
   };
 
-  // 結果と計算関数を返す
-  return { result, calculate };
+  return { calculate };
 };

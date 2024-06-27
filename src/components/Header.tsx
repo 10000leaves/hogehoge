@@ -29,6 +29,12 @@ export default function Header() {
           >
             三目並べ
           </Link>
+          <Link
+            className="mr-5 text-white"
+            href={"./calculator"}
+          >
+            電卓
+          </Link>
         </nav>
       </div>
     </header>
